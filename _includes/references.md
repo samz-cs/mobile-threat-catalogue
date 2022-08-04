@@ -111,7 +111,7 @@
 
 [^57]: J. Oberheide and Z. Lanier, "Team Joch vs. Android", presented at ShmooCon 2011, 28-30 Jan. 2011, slide 54; https://jon.oberheide.org/files/shmoo11-teamjoch.pdf [accessed 8/25/2016]
 
-[^61]: L. Neely, Mobile Threat Protection: A Holistic Approach to Securing Mobile Data and Devices, SANS Institute, 2016; www.sans.org/reading-room/whitepapers/analyst/mobile-threat-protection-holistic-approach-securing-mobile-data-devices-36715 [accessed 8/25/2016]
+[^61]: L. Neely, Mobile Threat Protection: A Holistic Approach to Securing Mobile Data and Devices, SANS Institute, 2016; https://docs.broadcom.com/doc/sans-mobile-threat-protection-a-holistic-approach[accessed 8/25/2016]
 
 [^62]: S. Fahl et al., "Why Eve and Mallory Love Android: An Analysis of Android SSL (In)Security", in Proceedings of the 2012 ACM conference on Computer and Communications Security, 2012, pp. 50-61; http://dl.acm.org/citation.cfm?id=2382205 [accessed 8/25/2016]
 
@@ -201,7 +201,7 @@
 
 [^105]: A.P. Felt and D. Wagner, Phishing on Mobile Devices, presented at Web 2.0 Security & Privacy 2011, 26 May 2011; https://people.eecs.berkeley.edu/~daw/papers/mobphish-w2sp11.pdf [accessed 7/27/2022]
 
-[^106]: R. Hassell, Exploiting Androids for Fun and Profit, presented at Hack In The Box Security Conference 2011, 12-13 Oct. 2011; http://conference.hitb.org/hitbsecconf2011kul/materials/D1T1 - Riley Hassell - Exploiting Androids for Fun and Profit.pdf [accessed 8/25/2016]
+[^106]: R. Hassell, Exploiting Androids for Fun and Profit, presented at Hack In The Box Security Conference 2011, 12-13 Oct. 2011;  https://conference.hitb.org/hitbsecconf2011kul/materials/D1T1%20-%20Riley%20Hassell%20-%20Exploiting%20Androids%20for%20Fun%20and%20Profit.pdf [accessed 8/25/2016]
 
 [^107]: W. Zhou et al., "The Latest Android Overlay Malware Spreading via SMS Phishing in Europe", blog, 28 June 2016; www.fireeye.com/blog/threat-research/2016/06/latest-android-overlay-malware-spreading-in-europe.html [accessed 8/25/2016]
 
@@ -221,7 +221,7 @@
 
 [^115]: "Samsung Keyboard Security Risk Disclosed", 16 June 2015; www.nowsecure.com/keyboard-vulnerability/ [accessed 8/25/2016]
 
-[^116]: CBS App & Mobility Website, Wandera Threat Advisory No. 192, Wandera, 23 Mar. 2016; www.wandera.com/resources/dl/TA_CBS.pdf [accessed 8/24/2016]
+[^116]: K. Arya, How malware steals autofill data from browsers, ITProPortal, 23 Apr. 2018; [www.wandera.com/resources/dl/TA_CBS.pdf](https://www.itproportal.com/features/five-ways-mobile-apps-are-putting-your-credentials-at-risk/) [accessed 8/1/2022]
 
 [^117]: The Fork, Wandera Threat Advisory No. 154, Wandera, 14 Jan. 2016; www.wandera.com/resources/dl/TA_The_Fork.pdf [accessed 8/24/2016]
 
@@ -331,7 +331,7 @@
 
 [^174]: P. Langlois, Toward the HLR: Attacking the SS7 & SIGTRAN Applications, presented at H2HC, Dec. 2009; www.h2hc.org.br/repositorio/2009/files/Philippe.en.pdf [accessed 8/23/2016]
 
-[^175]: K. Nohl, Attacking Phone Privacy, presented at Blackhat, 29 July 2010; https://media.blackhat.com/bh-ad-10/Nohl/BlackHat-AD-2010-Nohl-Attacking-Phone-Privacy-wp.pdf [accessed 8/23/2016]
+[^175]: K. Nohl, Attacking Phone Privacy, presented at Blackhat, 29 July 2010;  https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.1482&rep=rep1&type=pdf [accessed 8/23/2016]
 
 [^176]: U. Meyer and S. Wetzel, "A Man-in-the-Middle Attack on UMTS", Proceedings of the 3rd ACM workshop on Wireless security, 2004, pp. 90-97; http://dx.doi.org/10.1145/1023646.1023662 [accessed 8/23/2016]
 
@@ -523,7 +523,7 @@
 
 [^Ha-1]: A. Ha, "SilverPush Says It's Using Audio Beacons For An Unusual Approach to Cross-Device Ad Targeting", TechCrunch, 24 July 2014; https://techcrunch.com/2014/07/24/silverpush-audio-beacons/ [accessed 05/05/2017]
 
-[^Arp-1]: D. Arp, et al., "Privacy Threats through Ultrasonic Side Channels on Mobile Devices", [white paper], 2017; http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf [accessed 05/05/2017]
+[^Arp-1]: D. Arp, et al., "Privacy Threats through Ultrasonic Side Channels on Mobile Devices", [white paper], 2017; https://ieeexplore.ieee.org/document/7961950 [accessed 05/05/2017]
 
 [^Artenstein-1]: N. Artenstein, "Broadpwn: Remotely Compromising Android and IOS Via a Bug in the Broadcom Wi-Fi Chipset", [white paper], 2017; https://www.blackhat.com/docs/us-17/thursday/us-17-Artenstein-Broadpwn-Remotely-Compromising-Android-And-iOS-Via-A-Bug-In-Broadcoms-Wifi-Chipsets-wp.pdf [accessed 08/08/2017]
 
@@ -562,3 +562,4 @@
 [^309]: Secure Element Deployment & Host Card Emulation v1.0, white paper, SIMalliance, 2014; http://simalliance.org/wp-content/uploads/2015/03/Secure-Element-Deployment-Host-Card-Emulation-v1.0.pdf [accessed 10/24/2016]
 
 [^310]: Host Card Emulation (HCE) 101, white paper MNFCC-14002, Smart Card Alliance Mobile & NFC Council, 2014; http://www.smartcardalliance.org/downloads/HCE-101-WP-FINAL-081114-clean.pdf [accessed 10/24/2016]
+
